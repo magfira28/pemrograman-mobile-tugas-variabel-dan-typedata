@@ -1,1 +1,2 @@
-# pemrograman-mobile-tugas-variabel-dan-typedata
+Nama : Magfira L.a Abdullah 
+Npm : 07352311107
